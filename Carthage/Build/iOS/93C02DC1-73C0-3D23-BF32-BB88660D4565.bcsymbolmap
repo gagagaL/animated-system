@@ -3,13 +3,13 @@ Apple clang version 12.0.5 (clang-1205.0.22.11)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
 iPhoneOS14.5.sdk
 /Users/kawaguchimasaaki/Library/Caches/org.carthage.CarthageKit/DerivedData/12.5.1_12E507/APIKit/5.2.0/Build/Intermediates.noindex/ArchiveIntermediates/APIKit/IntermediateBuildFilesPath/APIKit.build/Release-iphoneos/APIKit.build/DerivedSources/APIKit_vers.c
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit
 -[AbstractInputStream init]
 _OBJC_SELECTOR_REFERENCES_
 __OBJC_METACLASS_RO_$_AbstractInputStream
 __OBJC_$_INSTANCE_METHODS_AbstractInputStream
 __OBJC_CLASS_RO_$_AbstractInputStream
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/AbstractInputStream.m
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/AbstractInputStream.m
 Sources/APIKit/BodyParameters/AbstractInputStream.m
 _$ss13_StringObjectV7VariantOWOe
 _$s6APIKit7SessionC11sendRequest_13callbackQueue7handlerAA0B4Task_pSgx_AA08CallbackF0OSgys6ResultOy8ResponseQzAA0bH5ErrorOGctAA0D0RzlFZTm
@@ -283,7 +283,7 @@ ___swift_reflection_version
 Apple clang version 12.0.5 (clang-1205.0.19.57)
 <swift-imported-modules>
 Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Unavailable.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Unavailable.swift
 _conditionallyBridgeFromObjectiveC
 <compiler-generated>
 flatMap
@@ -417,7 +417,7 @@ _symbolic ______ypt s11AnyHashableV
 _$ss11AnyHashableV_yptMD
 _symbolic _____yS2SG s18_DictionaryStorageC
 _$ss18_DictionaryStorageCyS2SGMD
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Request.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Request.swift
 $ss11AnyHashableV_yptWOc
 $ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntFs11AnyHashableV_ypTg5
 Swift runtime failure: arithmetic overflow
@@ -486,7 +486,7 @@ queryParameters.get
 parameters.get
 _symbolic $s6APIKit10DataParserP
 _$s6APIKit10DataParser_pMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/DataParser.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/DataParser.swift
 _$sIeg_IeyB_TR
 _block_copy_helper
 _block_destroy_helper
@@ -533,7 +533,7 @@ _$s6APIKit13CallbackQueueOMB
 _symbolic So16NSOperationQueueC
 _symbolic So17OS_dispatch_queueC
 _$s6APIKit13CallbackQueueOMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/CallbackQueue.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/CallbackQueue.swift
 $s6APIKit13CallbackQueueOMa
 $s6APIKit13CallbackQueueOwui
 $s6APIKit13CallbackQueueOwup
@@ -749,7 +749,7 @@ _$s6APIKit31MultipartFormDataBodyParametersV0B11InputStreamC011currentPartgH0AC0
 _$s6APIKit31MultipartFormDataBodyParametersV0B11InputStreamCN
 _OBJC_CLASS_$__TtCV6APIKit31MultipartFormDataBodyParameters20MultipartInputStream
 -private-discriminator _7A9AEB4403001E68B6DFFBFA54E960A8
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/MultipartFormDataBodyParameters.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/MultipartFormDataBodyParameters.swift
 $sSo8NSNumberCMa
 $sS2iSzsWl
 $s6APIKit31MultipartFormDataBodyParametersV15PartInputStreamCMa
@@ -938,7 +938,7 @@ _symbolic _____ 6APIKit13ResponseErrorO
 _$s6APIKit13ResponseErrorOMB
 _symbolic So13NSURLResponseCSg
 _$s6APIKit13ResponseErrorOMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Error/ResponseError.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Error/ResponseError.swift
 $s6APIKit13ResponseErrorOMa
 $s6APIKit13ResponseErrorOwui
 $s6APIKit13ResponseErrorOwup
@@ -965,7 +965,7 @@ _$s6APIKit14JSONDataParserCMf
 _symbolic _____ 6APIKit14JSONDataParserC
 _got.$sSo20NSJSONReadingOptionsVMn
 _$s6APIKit14JSONDataParserCMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/JSONDataParser.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/JSONDataParser.swift
 $s6APIKit14JSONDataParserCMa
 readingOptions.get
 _$s6APIKit14SessionAdapter_pWOc
@@ -1021,7 +1021,7 @@ _$s6APIKit16SessionTaskErrorOACs0D0AAWL
 _symbolic _____y8Response_____Qz_____G s6ResultO 6APIKit7RequestP AC16SessionTaskErrorO
 _$s6APIKit17URLSessionAdapterC10urlSessionSo12NSURLSessionCSgvpWvd
 -private-discriminator _5B438AE0C8A2C7FE2FABEF8AD8801854
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Session.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Session.swift
 __swift_allocate_boxed_opaque_existential_1
 $s6APIKit7SessionC4send_13callbackQueue7handlerAA0B4Task_pSgx_AA08CallbackE0OSgys6ResultOy8ResponseQzAA0bG5ErrorOGctAA7RequestRzlFy10Foundation4DataVSg_So13NSURLResponseCSgs0K0_pSgtcfU0_yycfU_TA
 $s6APIKit7SessionC4send_13callbackQueue7handlerAA0B4Task_pSgx_AA08CallbackE0OSgys6ResultOy8ResponseQzAA0bG5ErrorOGctAA7RequestRzlFy10Foundation4DataVSg_So13NSURLResponseCSgs0K0_pSgtcfU0_yycfU_
@@ -1113,7 +1113,7 @@ _$s6APIKit16InputStreamErrorOMF
 _$s6APIKit16InputStreamErrorOs0D0AAMcMK
 _$s6APIKit16InputStreamErrorOs0D0AAMc
 _$s6APIKit16InputStreamErrorON
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/Data+InputStream.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/Data+InputStream.swift
 $s6APIKit16InputStreamErrorOMa
 $s6APIKit16InputStreamErrorOwui
 $s6APIKit16InputStreamErrorOwup
@@ -1174,7 +1174,7 @@ _$s6APIKit17RequestBodyEntityOMB
 _$s6APIKit17RequestBodyEntityOMF
 _symbolic $s6APIKit14BodyParametersP
 _$s6APIKit14BodyParameters_pMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/BodyParameters.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/BodyParameters.swift
 $s6APIKit17RequestBodyEntityOMa
 $s6APIKit17RequestBodyEntityOwui
 $s6APIKit17RequestBodyEntityOwup
@@ -1220,7 +1220,7 @@ _$s6APIKit18JSONBodyParametersVMF
 _symbolic SS_ypt
 _$sSS_yptMD
 _$ss5Error_pMD
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/JSONBodyParameters.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/JSONBodyParameters.swift
 $sSS_yptWOc
 $s6APIKit18JSONBodyParametersVMa
 $s6APIKit18JSONBodyParametersVwst
@@ -1260,7 +1260,7 @@ _symbolic $s6APIKit11SessionTaskP
 _$s6APIKit11SessionTask_pMF
 _symbolic $s6APIKit14SessionAdapterP
 _$s6APIKit14SessionAdapter_pMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/SessionAdapter/SessionAdapter.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/SessionAdapter/SessionAdapter.swift
 _$s6APIKit12RequestErrorOs0C0AAsADP7_domainSSvgTW
 _$s6APIKit12RequestErrorOs0C0AAsADP5_codeSivgTW
 _$s6APIKit12RequestErrorOs0C0AAsADP9_userInfoyXlSgvgTW
@@ -1286,7 +1286,7 @@ _symbolic _____ 6APIKit12RequestErrorO
 _got.$s10Foundation10URLRequestVMn
 _symbolic _____ 10Foundation10URLRequestV
 _$s6APIKit12RequestErrorOMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Error/RequestError.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Error/RequestError.swift
 $s6APIKit12RequestErrorOMr
 $s6APIKit12RequestErrorOwui
 $s6APIKit12RequestErrorOwup
@@ -1346,7 +1346,7 @@ _$s6APIKit24FormURLEncodedDataParserC5ErrorOWV
 _$s6APIKit24FormURLEncodedDataParserC5ErrorOMf
 _symbolic _____ 6APIKit24FormURLEncodedDataParserC5ErrorO
 _$s6APIKit24FormURLEncodedDataParserC5ErrorOMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/FormURLEncodedDataParser.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/FormURLEncodedDataParser.swift
 $ss11AnyHashableVWOh
 $ss11AnyHashableVWOc
 $s6APIKit24FormURLEncodedDataParserC5ErrorOMa
@@ -1420,7 +1420,7 @@ _$s6APIKit22ProtobufBodyParametersVWV
 _$s6APIKit22ProtobufBodyParametersVMf
 _symbolic _____ 6APIKit22ProtobufBodyParametersV
 _$s6APIKit22ProtobufBodyParametersVMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/ProtobufBodyParameters.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/ProtobufBodyParameters.swift
 $s6APIKit22ProtobufBodyParametersVMa
 $s6APIKit22ProtobufBodyParametersVwst
 $s6APIKit22ProtobufBodyParametersVwet
@@ -1447,7 +1447,7 @@ _$s6APIKit28FormURLEncodedBodyParametersVMl
 _$s6APIKit28FormURLEncodedBodyParametersVMf
 _symbolic _____ 6APIKit28FormURLEncodedBodyParametersV
 _$s6APIKit28FormURLEncodedBodyParametersVMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/FormURLEncodedBodyParameters.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/BodyParameters/FormURLEncodedBodyParameters.swift
 $s6APIKit28FormURLEncodedBodyParametersVMr
 $s6APIKit28FormURLEncodedBodyParametersVwst
 $s6APIKit28FormURLEncodedBodyParametersVwet
@@ -1480,7 +1480,7 @@ _$s6APIKit16SessionTaskErrorOMf
 _symbolic _____ 6APIKit16SessionTaskErrorO
 _$s6APIKit16SessionTaskErrorOMB
 _$s6APIKit16SessionTaskErrorOMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Error/SessionTaskError.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Error/SessionTaskError.swift
 $s6APIKit16SessionTaskErrorOMa
 $s6APIKit16SessionTaskErrorOwui
 $s6APIKit16SessionTaskErrorOwup
@@ -1501,7 +1501,7 @@ __DATA__TtC6APIKit18ProtobufDataParser
 _$s6APIKit18ProtobufDataParserCMf
 _symbolic _____ 6APIKit18ProtobufDataParserC
 _$s6APIKit18ProtobufDataParserCMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/ProtobufDataParser.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/ProtobufDataParser.swift
 $s6APIKit18ProtobufDataParserCMa
 _$s6APIKit6escape33_51D308D32A46180593D9A1D4769B2089LLyS2SF
 _$s6APIKit23URLEncodedSerializationC5ErrorOsAdAsADP7_domainSSvgTW
@@ -1553,7 +1553,7 @@ _$sSaySSGSayxGSKsWL
 _$sSaySSGML
 _$s6APIKit23URLEncodedSerializationCACycfCTq
 -private-discriminator _51D308D32A46180593D9A1D4769B2089
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Serializations/URLEncodedSerialization.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Serializations/URLEncodedSerialization.swift
 $sSsWOs
 $sSaySSGMa
 $sSaySSGSayxGSKsWl
@@ -1732,7 +1732,7 @@ __PROTOCOL_INSTANCE_METHODS_OPT_NSObject
 __PROTOCOL_PROPERTIES_NSObject
 __PROTOCOL_METHOD_TYPES_NSObject
 -private-discriminator _6A347B9227A3826C8EACAA1878F591C2
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/SessionAdapter/URLSessionAdapter.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/SessionAdapter/URLSessionAdapter.swift
 $sSo13NSMutableDataCMa
 $s10Foundation4DataVSgSo13NSURLResponseCSgs5Error_pSgytIegnnnr_AdgIIegggg_TRTA
 $s10Foundation4DataVSgSo13NSURLResponseCSgs5Error_pSgytIegnnnr_AdgIIegggg_TR
@@ -1883,7 +1883,7 @@ $s6APIKit17URLSessionAdapterC10urlSessionSo12NSURLSessionCSgvpACTk
 $s6APIKit17URLSessionAdapterC10urlSessionSo12NSURLSessionCSgvpACTK
 cancel
 resume
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Combine/Combine.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/Combine/Combine.swift
 _$s6APIKit16StringDataParserC5ErrorOsAdAsADP7_domainSSvgTW
 _$s6APIKit16StringDataParserC5ErrorOsAdAsADP5_codeSivgTW
 _$s6APIKit16StringDataParserC5ErrorOsAdAsADP9_userInfoyXlSgvgTW
@@ -1919,7 +1919,7 @@ _$s6APIKit16StringDataParserC5ErrorOWV
 _$s6APIKit16StringDataParserC5ErrorOMf
 _symbolic _____ 6APIKit16StringDataParserC5ErrorO
 _$s6APIKit16StringDataParserC5ErrorOMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/StringDataParser.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/DataParser/StringDataParser.swift
 $s6APIKit16StringDataParserC5ErrorOMa
 $s6APIKit16StringDataParserC5ErrorOwui
 $s6APIKit16StringDataParserC5ErrorOwup
@@ -1964,7 +1964,7 @@ _$s6APIKit10HTTPMethodOSYAAMcMK
 _$s6APIKit10HTTPMethodOWV
 _$s6APIKit10HTTPMethodOMf
 _$s6APIKit10HTTPMethodOMF
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/HTTPMethod.swift
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/APIKit/Sources/APIKit/HTTPMethod.swift
 $s6APIKit10HTTPMethodOMa
 $s6APIKit10HTTPMethodOwui
 $s6APIKit10HTTPMethodOwup

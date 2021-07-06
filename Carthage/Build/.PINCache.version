@@ -1,17 +1,26 @@
 {
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
   "commitish" : "3.0.3",
   "iOS" : [
     {
-      "hash" : "9faea8a56c06e352b6ea496db8b7111864e8d18d841d8c2d59b52d5556064f49",
-      "name" : "PINCache",
-      "container" : "PINCache.xcframework",
-      "identifier" : "ios-arm64_armv7"
-    },
-    {
-      "hash" : "4b772fb59623f39446fab55c6dc2d3b61bdae13f882583b8943d98f37c07e9ea",
+      "hash" : "14369f7256f3131fe85da73e0507fb3990d7156c289029a063ad47ef58939838",
       "name" : "PINCache",
       "container" : "PINCache.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "b4edd0ddcf369b9bac5fba3aebba95771606565313c55db0cf7cc6909f77d28c",
+      "name" : "PINCache",
+      "container" : "PINCache.xcframework",
+      "identifier" : "ios-arm64_armv7"
     }
   ]
 }

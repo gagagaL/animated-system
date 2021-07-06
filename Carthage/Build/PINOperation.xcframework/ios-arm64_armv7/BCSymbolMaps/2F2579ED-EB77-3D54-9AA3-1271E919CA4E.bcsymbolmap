@@ -3,7 +3,7 @@ Apple clang version 12.0.5 (clang-1205.0.22.11)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
 iPhoneOS14.5.sdk
 /Users/kawaguchimasaaki/Library/Caches/org.carthage.CarthageKit/DerivedData/12.5.1_12E507/PINOperation/1.2.1/Build/Intermediates.noindex/ArchiveIntermediates/PINOperation/IntermediateBuildFilesPath/PINOperation.build/Release-iphoneos/PINOperation.build/DerivedSources/PINOperation_vers.c
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/PINOperation
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/PINOperation
 -[PINOperationGroup initWithOperationQueue:]
 -[PINOperationGroup dealloc]
 +[PINOperationGroup asyncOperationGroupWithQueue:]
@@ -66,7 +66,7 @@ _OBJC_IVAR_$_PINOperationGroup._started
 _OBJC_IVAR_$_PINOperationGroup._canceled
 __OBJC_$_INSTANCE_VARIABLES_PINOperationGroup
 __OBJC_CLASS_RO_$_PINOperationGroup
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/PINOperation/Source/PINOperationGroup.m
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/PINOperation/Source/PINOperationGroup.m
 Source/PINOperationGroup.m
 __destroy_helper_block_e8_32s
 __copy_helper_block_e8_32s
@@ -212,7 +212,7 @@ _OBJC_IVAR_$_PINOperationQueue._identifierToOperations
 __OBJC_$_INSTANCE_VARIABLES_PINOperationQueue
 __OBJC_$_PROP_LIST_PINOperationQueue
 __OBJC_CLASS_RO_$_PINOperationQueue
-/Users/kawaguchimasaaki/gits/weather-ios/Carthage/Checkouts/PINOperation/Source/PINOperationQueue.m
+/Users/kawaguchimasaaki/gits/swift-weather-ios/Carthage/Checkouts/PINOperation/Source/PINOperationQueue.m
 Source/PINOperationQueue.m
 __44-[PINOperationQueue scheduleNextOperations:]_block_invoke_2
 __44-[PINOperationQueue scheduleNextOperations:]_block_invoke.124

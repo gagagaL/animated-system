@@ -1,2 +1,2 @@
 github "pinterest/PINRemoteImage"
-github "ishkawa/APIKit"
+github "ishkawa/APIKit" ~> 5.0

@@ -1,17 +1,53 @@
 {
+  "Mac" : [
+    {
+      "hash" : "6b8acff384a2257894a844753f5d3061e710eac3ab743d34c80d7fb06933ccda",
+      "name" : "PINOperation",
+      "container" : "PINOperation.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
+  ],
+  "watchOS" : [
+    {
+      "hash" : "2c92a5ad1d01307f90da6eb581d49bbbe8ab99a099f7e1df39b02ee796a5d88b",
+      "name" : "PINOperation",
+      "container" : "PINOperation.xcframework",
+      "identifier" : "watchos-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "6e111d9d92c6d536cca79037b92ade487a1d8d0ab3d610bb11204f638525fcd9",
+      "name" : "PINOperation",
+      "container" : "PINOperation.xcframework",
+      "identifier" : "watchos-arm64_32_armv7k"
+    }
+  ],
+  "tvOS" : [
+    {
+      "hash" : "fe3fd0918391880a1be9d7b0d2fc3b743df4ae973acfda52110e34b410a8f840",
+      "name" : "PINOperation",
+      "container" : "PINOperation.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "74a11f6ebb972f1175ffb375c5d94e7a372f2c1c0e4f976ebf5e468b96210ad6",
+      "name" : "PINOperation",
+      "container" : "PINOperation.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    }
+  ],
   "commitish" : "1.2.1",
   "iOS" : [
     {
-      "hash" : "c9e970a2adfbdf44db07de153c2d674fdca3438854d093ede03ebf3e7d1bd681",
-      "name" : "PINOperation",
-      "container" : "PINOperation.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
-      "hash" : "f268e07dd4635191e47fae7a04ee8191f5fbb199695db403b468760c2e14d4a5",
+      "hash" : "9405379dcd073f3510ffdc8d4684fd0eff33da5813306fa9668917c36d0b8039",
       "name" : "PINOperation",
       "container" : "PINOperation.xcframework",
       "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "52d6f44072b72567f8ffe9021a983a1bea30bdce00dc757f07b901716ca9f901",
+      "name" : "PINOperation",
+      "container" : "PINOperation.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
     }
   ]
 }

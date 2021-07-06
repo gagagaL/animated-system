@@ -1,16 +1,57 @@
 {
+  "Mac" : [
+    {
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "02a7c7566e6bfea04542ad03de5eb11e7f7451c7ff871cd70ffaa34f0eb1b90a",
+      "name" : "APIKit",
+      "container" : "APIKit.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
+  ],
+  "watchOS" : [
+    {
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "bd4ee62d12be3daf0e16d4a72a9fc832b4680282e801003e8400a34c833c7ae8",
+      "name" : "APIKit",
+      "container" : "APIKit.xcframework",
+      "identifier" : "watchos-arm64_32_armv7k"
+    },
+    {
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "2588fb04599b25b3594575e98eb9ce501da05ee2c83af5f7eeb14e45cd4ad531",
+      "name" : "APIKit",
+      "container" : "APIKit.xcframework",
+      "identifier" : "watchos-arm64_i386_x86_64-simulator"
+    }
+  ],
+  "tvOS" : [
+    {
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "5116f89ceecd8ab9eae3ced9d1c78670a1dd141a117cee242291ad66088d7fe9",
+      "name" : "APIKit",
+      "container" : "APIKit.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "6c5e6d0a60db6a5ea7c919dbfb6ea2d173980e5a9bb2dff1f6bd6b80b847518e",
+      "name" : "APIKit",
+      "container" : "APIKit.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    }
+  ],
   "commitish" : "5.2.0",
   "iOS" : [
     {
       "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "4847a751097d0d248547ed4186f4e4dbdcfd578aa4741bb4ee90b2c23583d60f",
+      "hash" : "d37a487f7ae8b4e76556b09449835c7fd1e2ad985d67a8f41b48ccf9aee4201b",
       "name" : "APIKit",
       "container" : "APIKit.xcframework",
       "identifier" : "ios-arm64_armv7"
     },
     {
       "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "d2a7d1e0c2e38c27b69fae15ccfa5ccd2d59637851d96ae4e81669d28002d537",
+      "hash" : "11181d49450d63b143c57d60fb2ed7e3039361ec306d3d004147ae7861d7a848",
       "name" : "APIKit",
       "container" : "APIKit.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
